@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="password" type="id" />
+    <item name="email" type="id" />
+    <item name="email_sign_in_button" type="id" />
+    <item name="etEmail" type="id"/>
+    <item name="etAge" type="id" />
+    <item name="delete" type="id" />
+</resources>

@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">88 Pet Reserve And Pickup</string>
+
+    <string name="google_maps_API_key">AIzaSyAvM20LFF1WpJmBq12V0g7ufBmpic5w5B4</string>
+    <!-- Strings related to login -->
+    <string-array name="status">
+        <item>Pending</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="service">
+        <item>Full Grooming</item>
+        <item>Basic Grooming</item>
+        <item>Day Care</item>
+        <item>Spa Treatment</item>
+    </string-array>
+    <string-array name="type">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Rabbit</item>
+        <item>Guinea Pig</item>
+    </string-array>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_account_yet_create_one">No account yet? Create one</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_login2">Sign in</string>
+    <string name="enter_name">Enter name</string>
+    <string name="add_user">ADD USER</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_user">ListUserActivity</string>
+    <string name="title_activity_update">UpdateActivity</string>
+
+</resources>

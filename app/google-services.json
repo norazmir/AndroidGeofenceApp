@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "26109372759",
+    "firebase_url": "https://pets-mart-sdn-bhd.firebaseio.com",
+    "project_id": "pets-mart-sdn-bhd",
+    "storage_bucket": "pets-mart-sdn-bhd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26109372759:android:dd465533b44ad364",
+        "android_client_info": {
+          "package_name": "com.test.a88petsmartsdnbhd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26109372759-5omi8gf0tarhgmqs01p8u7mmsoo6vqoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.a88petsmartsdnbhd",
+            "certificate_hash": "e7e140b4b0538323d016296791c96b3a258c0124"
+          }
+        },
+        {
+          "client_id": "26109372759-nisa084i35faug725rk2gpglbq3ptc47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCu8n3YL6RoMa_wUvzWf6GBuhHzLaGh_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26109372759-nisa084i35faug725rk2gpglbq3ptc47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
